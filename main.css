@@ -140,6 +140,11 @@ img.profile-pic {
 
 .bg-color-white {
 	background-color: white;
+	background-image: maori+background-1920w.png;
+	background-repeat: no-repeat;
+	opacity: 10%;
+	background-size: cover;
+	background-position: center;
 }
 
 .text-name {
@@ -180,14 +185,7 @@ img.profile-pic {
 	color: white;
 	font-weight: 500;
 }
-
-.background-image {
-	background-repeat: no-repeat;
-	opacity: 10%;
-	background-size: cover;
-	background-position: center;
 	
-}
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
