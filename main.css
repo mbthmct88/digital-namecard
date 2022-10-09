@@ -184,6 +184,8 @@ img.profile-pic {
 .background-image {
 	background-repeat: no-repeat;
 	opacity: 10%;
+	background-size: cover;
+	background-position: center;
 	
 }
 
