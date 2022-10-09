@@ -181,6 +181,12 @@ img.profile-pic {
 	font-weight: 500;
 }
 
+.background-image {
+	background-repeat: no-repeat;
+	opacity: 10%;
+	
+}
+
 @media screen and (max-width: 600px) {
   img.profile-pic {
     height: 60%;
