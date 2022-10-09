@@ -140,11 +140,6 @@ img.profile-pic {
 
 .bg-color-white {
 	background-color: white;
-	background-image: 'maori+background-1920w.png';
-	background-repeat: no-repeat;
-	opacity: 100%;
-	background-size: cover;
-	background-position: center;
 }
 
 .text-name {
